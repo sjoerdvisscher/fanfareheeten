@@ -1,0 +1,113 @@
+body {
+	background-color: 		#0f1e0f;
+	font-family: 					verdana;
+	font-size: 						12px;
+	color: 								#e1c896;
+	margin: 							0px 0px 0px 0px;
+	vertical-align: 			top;
+}	
+
+#caecilia {
+	width: 								700px;
+	height: 							1425px;
+	margin-left: 					auto;
+	margin-right: 				auto;
+	margin-top: 					0px;
+	margin-bottom: 				0px;
+	padding: 							0px;
+}
+
+#fanfare {
+	background-image: 		url(image/fanfare.gif);
+	width: 								180px;
+	height: 							70px;
+	position: 						absolute;
+	margin: 							0px 0px 0px 80px;
+}
+
+#stcaecilia {
+	background-image: 		url(image/stcaecilia.gif);
+	width: 								250px;
+	height: 							70px;
+	position: 						absolute;
+	margin: 							0px 0px 0px 385px;
+}
+
+#header {
+	background-image: 		url(image/header.gif);
+	width: 								698px;
+	height: 							235px;
+	position: 						absolute;
+	margin: 							70px 0px 0px 1px;
+}
+
+#content {
+	background-color: 		#285028;
+	width: 								698px;
+	height: 							1099px;
+	position: 						absolute;
+	margin: 							305px 0px 0px 1px;
+}
+
+#g {
+	background-image: 		url(image/g.gif);
+	width: 								348px;
+	height: 							200px;
+	position: 						absolute;
+	margin: 							384px 0px 0px 344px;
+}
+
+#borderleft {
+	background-color: 		#323232;
+	width: 								1px;
+	height: 							1328px;
+	position: 						absolute;
+	margin: 							76px 0px 0px 0px;
+}
+
+#borderbottom {
+	position: 						absolute;
+	margin: 							1393px 0px 0px 0px;
+}
+
+#borderright {
+	background-color: 		#323232;
+	width: 								1px;
+	height: 							1328px;
+	position: 						absolute;
+	margin: 							76px 0px 0px 699px;
+}
+
+#text {
+	position: 						absolute;
+	margin: 							315px 0px 0px 165px;
+}
+
+#home {
+	position: 						absolute;
+	margin: 							305px 0px 0px 1px;
+}
+
+#info {
+	position: 						absolute;
+	margin: 							349px 0px 0px 1px;
+}
+
+#agenda {
+	position: 						absolute;
+	margin: 							393px 0px 0px 1px;
+}
+
+#nieuws {
+	position: 						absolute;
+	margin: 							437px 0px 0px 1px;
+}
+
+#contact {
+	position: 						absolute;
+	margin: 							481px 0px 0px 1px;
+}
+
+a.zwart {
+	color: #000000
+}
